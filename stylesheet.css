@@ -98,11 +98,7 @@ a:active {
   font-size: 16px;
   margin-bottom: 15px;
   margin-top: 15px;
-}
-
-#.profile-content .container h2,p  {
-  padding-left: 40px;
-  padding-right: 250px;
+  padding-left: 80px;
 }
 
 .profile-content img {
